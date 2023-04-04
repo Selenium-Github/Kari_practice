@@ -10,7 +10,7 @@ public class Demo_67 {
 		int lar=a>b?a:b;
 		
 		System.out.println(lar);
-		// TODO Auto-generated method stub
+		
 
 	}
 
